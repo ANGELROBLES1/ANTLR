@@ -8,3 +8,4 @@
 LabeledExpr.g4	--- La gramática
 EvalVisitor.java ---	La lógica (evaluación y manejo de errores)
 Calc.java ---	El programa principal
+<img width="644" height="287" alt="image" src="https://github.com/user-attachments/assets/617253c4-cd60-4b09-8ba5-d1367227f5be" />

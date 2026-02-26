@@ -5,3 +5,6 @@
 
 # Calculadora
 <img width="539" height="93" alt="image" src="https://github.com/user-attachments/assets/e4ac8189-72b5-4a12-9302-9241c7e81fb9" />
+LabeledExpr.g4	--- La gramática
+EvalVisitor.java ---	La lógica (evaluación y manejo de errores)
+Calc.java ---	El programa principal
